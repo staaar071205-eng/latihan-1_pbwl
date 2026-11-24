@@ -1,5 +1,9 @@
 # Project 5 – Latihan 1
 ## Aplikasi Pengelolaan Data Mahasiswa dan Program Studi
+Project 5 Pemrograman Berbasis Web Lanjutan                              
+Riski Amanda NIM : 0702243150, Sistem Informasi 1                     
+Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027                              
+UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi                                 
 
 Project ini merupakan aplikasi web sederhana berbasis PHP dan MySQL untuk mengelola data mahasiswa serta data program studi. Aplikasi menggunakan konsep CRUD (*Create, Read, Update, Delete*) dan pemrograman berorientasi objek sederhana melalui class `Model`, `Mahasiswa`, dan `Prodi`.
 
